@@ -1,0 +1,3 @@
+# TypingAnimation
+
+Simple typing animation done in Javascript. Coding is...
